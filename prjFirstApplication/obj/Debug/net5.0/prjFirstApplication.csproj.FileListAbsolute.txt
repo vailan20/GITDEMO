@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\LTI Training\C Sharp\Day1\prjFirstApplication\bin\Debug\net5.0\prjFirstApplication.exe
+C:\Users\user\Desktop\LTI Training\C Sharp\Day1\prjFirstApplication\bin\Debug\net5.0\prjFirstApplication.deps.json
+C:\Users\user\Desktop\LTI Training\C Sharp\Day1\prjFirstApplication\bin\Debug\net5.0\prjFirstApplication.runtimeconfig.json
+C:\Users\user\Desktop\LTI Training\C Sharp\Day1\prjFirstApplication\bin\Debug\net5.0\prjFirstApplication.runtimeconfig.dev.json
+C:\Users\user\Desktop\LTI Training\C Sharp\Day1\prjFirstApplication\bin\Debug\net5.0\prjFirstApplication.dll
+C:\Users\user\Desktop\LTI Training\C Sharp\Day1\prjFirstApplication\bin\Debug\net5.0\ref\prjFirstApplication.dll
+C:\Users\user\Desktop\LTI Training\C Sharp\Day1\prjFirstApplication\bin\Debug\net5.0\prjFirstApplication.pdb
+C:\Users\user\Desktop\LTI Training\C Sharp\Day1\prjFirstApplication\obj\Debug\net5.0\prjFirstApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\LTI Training\C Sharp\Day1\prjFirstApplication\obj\Debug\net5.0\prjFirstApplication.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\LTI Training\C Sharp\Day1\prjFirstApplication\obj\Debug\net5.0\prjFirstApplication.AssemblyInfo.cs
+C:\Users\user\Desktop\LTI Training\C Sharp\Day1\prjFirstApplication\obj\Debug\net5.0\prjFirstApplication.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\LTI Training\C Sharp\Day1\prjFirstApplication\obj\Debug\net5.0\prjFirstApplication.dll
+C:\Users\user\Desktop\LTI Training\C Sharp\Day1\prjFirstApplication\obj\Debug\net5.0\ref\prjFirstApplication.dll
+C:\Users\user\Desktop\LTI Training\C Sharp\Day1\prjFirstApplication\obj\Debug\net5.0\prjFirstApplication.pdb
+C:\Users\user\Desktop\LTI Training\C Sharp\Day1\prjFirstApplication\obj\Debug\net5.0\prjFirstApplication.genruntimeconfig.cache
+C:\Users\user\Desktop\LTI Training\C Sharp\Day1\prjFirstApplication\obj\Debug\net5.0\prjFirstApplication.csproj.AssemblyReference.cache
