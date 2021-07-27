@@ -1,0 +1,6 @@
+Department
+
+1. HR
+2. Finance
+3. Sale
+4. Administration
