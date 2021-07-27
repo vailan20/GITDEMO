@@ -11,6 +11,10 @@ namespace prjFirstApplication
         void Sub(){
             int c = 34 - 34;
         }
+        
+        void Mul(){
+            int c = 4 * 2;
+        }
 
         static void Main(string[] args)
         {
