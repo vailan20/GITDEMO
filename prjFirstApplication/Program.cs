@@ -7,6 +7,11 @@ namespace prjFirstApplication
         void Add(){
             int c = 34 +34;
         }
+
+        void Sub(){
+            int c = 34 - 34;
+        }
+
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
